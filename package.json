@@ -10,7 +10,8 @@
     "loadBefore": [
         "EpicRangeTime-Weapons",
         "Echoes-of-Tarkov---Requisitions",
-        "Eukyre-Consortium"
+        "Eukyre-Consortium",
+        "WTT-Armory"
     ],
     "scripts": {
         "setup": "npm i",
