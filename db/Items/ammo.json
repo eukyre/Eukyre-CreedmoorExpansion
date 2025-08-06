@@ -40,8 +40,8 @@
         "modSlot": [],
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
-        "fleaPriceRoubles": 411,
-        "handbookPriceRoubles": 330,
+        "fleaPriceRoubles": 490,
+        "handbookPriceRoubles": 410,
         "addtoTraders": true,
         "traderId": "PEACEKEEPER",
         "traderItems": [
@@ -56,7 +56,7 @@
                 "_tpl": "DOLLARS"
             }
         ],
-        "loyallevelitems": 2,
+        "loyallevelitems": 4,
         "addtoBots": false,
         "addtostaticlootcontainer": true,
         "StaticLootContainers": [
@@ -131,7 +131,7 @@
                 "_tpl": "DOLLARS"
             }
         ],
-        "loyallevelitems": 4,
+        "loyallevelitems": 3,
         "addtoBots": false,
         "addtostaticlootcontainer": true,
         "StaticLootContainers": [
@@ -206,7 +206,7 @@
                 "_tpl": "DOLLARS"
             }
         ],
-        "loyallevelitems": 3,
+        "loyallevelitems": 1,
         "addtoBots": false,
         "addtostaticlootcontainer": true,
         "StaticLootContainers": [
