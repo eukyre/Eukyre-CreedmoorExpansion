@@ -16,10 +16,19 @@
             ]
         },
         {
+            "key": "ammoPatrons/patron_65cm_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "ammoPatrons/patron_65cm_copper_solid.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "ammoPatrons/patron_65cm_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
@@ -28,6 +37,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "ammoPatrons/patron_65cm_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
@@ -36,6 +46,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "ammoPatrons/patron_65cm_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
@@ -44,6 +55,16 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "ammoPatrons/patron_65cm_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "ammoPatrons/patron_65cm_subfmj.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "ammoPatrons/patron_65cm_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
