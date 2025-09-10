@@ -711,5 +711,147 @@
         "masterySections": [],
         "addweaponpreset": false,
         "weaponpresets": []
+    },
+    "68bd0917ed8d29169cf36826": {
+        "itemTplToClone": "5888956924597752983e182d",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "assets/content/items/mods/barrels/barrel_dvl-10_m2_660mm.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5a6086ea4f39f99cd479502f",
+                "5a608bf24f39f98ffc77720e",
+                "58dd3ad986f77403051cba8f",
+                "5e023e53d4353e3302577c4c",
+                "5efb0c1bd79ff02a1f5e68d9",
+                "5e023e6e34d52a55c3304f71",
+                "5e023e88277cce2b522ff2b1",
+                "6768c25aa7b238f14a08d3f6"
+            ],
+            "Velocity": 12.5,
+            "CenterOfImpact": 0.012
+        },
+        "locales": {
+            "en": {
+                "name": "DVL-10 M2 6.5 Creedmoor 660mm barrel",
+                "shortName": "DVL-10 6.5 660mm",
+                "description": "A 660mm long 6.5x48mm Creedmoor match-grade stainless steel barrel manufactured by LOBAEV Hummer Barrels for the DVL-10 M2 sniper rifle."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 37800,
+        "handbookPriceRoubles": 22512,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 34400,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 1
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "68bd09a40eefca4dbce763a0": {
+        "itemTplToClone": "5888945a2459774bf43ba385",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "assets/content/items/mods/barrels/barrel_dvl-10_500mm.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5a6086ea4f39f99cd479502f",
+                "5a608bf24f39f98ffc77720e",
+                "58dd3ad986f77403051cba8f",
+                "5e023e53d4353e3302577c4c",
+                "5efb0c1bd79ff02a1f5e68d9",
+                "5e023e6e34d52a55c3304f71",
+                "5e023e88277cce2b522ff2b1",
+                "6768c25aa7b238f14a08d3f6"
+            ],
+            "Velocity": 9.1,
+            "CenterOfImpact": 0.020
+        },
+        "locales": {
+            "en": {
+                "name": "DVL-10 7.6.5x48 Creedmoor 500mm suppressed barrel",
+                "shortName": "DVL-10 6.5 500mm",
+                "description": "A 500 mm long 7.6.5x48mm Creedmoor match-grade stainless steel barrel with an integral sound suppressor manufactured by LOBAEV Hummer Barrels for the DVL-10 sniper rifle."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 34872,
+        "handbookPriceRoubles": 23542,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 39873,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 1
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
     }
 }
