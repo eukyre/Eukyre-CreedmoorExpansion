@@ -91,6 +91,15 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "ammoPatrons/patron_65cm_incen.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "ammoPatrons/patron_65cm_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }
